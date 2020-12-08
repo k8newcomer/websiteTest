@@ -1,0 +1,18 @@
+---
+title: "lab13"
+author: "Kate Newcomer"
+date: "December 7, 2020"
+output:
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+---
+![link to the new website]
+A Compilation of my favorite cat memes
+
+![](https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif)
+
+![](https://media.giphy.com/media/q1MeAPDDMb43K/giphy.gif)
+
+![](https://media.giphy.com/media/SVYrs1hU0SiAf1nw1n/giphy.gif)
+
