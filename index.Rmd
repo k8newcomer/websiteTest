@@ -7,7 +7,7 @@ output:
     theme: cayman
     highlight: github
 ---
-![link to the new website]
+
 A Compilation of my favorite cat memes
 
 ![](https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif)
